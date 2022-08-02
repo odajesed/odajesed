@@ -29,7 +29,7 @@
 [twitter]: https://twitter.com/eotaveira
 [youtube]: https://www.youtube.com/c/safesrc
 [instagram]: https://www.instagram.com/taveiraalbuquerque/
-[linkedin]: https://linkedin.com/in/gabrieltav
+[linkedin]: https://linkedin.com/in/gabrieltave
 
 <!--
 
